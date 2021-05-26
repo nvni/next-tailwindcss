@@ -16,7 +16,7 @@ React App
 Install Tailwind CSS
 
 ```bash
-  yarn install -D tailwindcss@latest postcss@latest autoprefixer@lates
+  yarn add -D tailwindcss@latest postcss@latest autoprefixer@lates
 ```
 
 ## Setup Config
